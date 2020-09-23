@@ -3,4 +3,11 @@
     <color name="colorPrimary">#6200EE</color>
     <color name="colorPrimaryDark">#3700B3</color>
     <color name="colorAccent">#03DAC5</color>
+
+    <color name="colorBlueUtama">#14153D</color>
+
+    <color name="button_primary">#EA6623</color>
+    <color name="button_secondary">#292A50</color>
+    <color name="text_white">#FFFFFF</color>
+    <color name="colorGray">#A69F9F</color>
 </resources>
